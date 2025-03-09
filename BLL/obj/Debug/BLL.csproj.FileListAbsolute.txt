@@ -1,0 +1,15 @@
+F:\9th semester\advance .net\TFSManagement\BLL\bin\Debug\BLL.dll
+F:\9th semester\advance .net\TFSManagement\BLL\bin\Debug\BLL.pdb
+F:\9th semester\advance .net\TFSManagement\BLL\bin\Debug\AutoMapper.dll
+F:\9th semester\advance .net\TFSManagement\BLL\bin\Debug\DAL.dll
+F:\9th semester\advance .net\TFSManagement\BLL\bin\Debug\EntityFramework.dll
+F:\9th semester\advance .net\TFSManagement\BLL\bin\Debug\DAL.pdb
+F:\9th semester\advance .net\TFSManagement\BLL\bin\Debug\DAL.dll.config
+F:\9th semester\advance .net\TFSManagement\BLL\bin\Debug\AutoMapper.xml
+F:\9th semester\advance .net\TFSManagement\BLL\bin\Debug\EntityFramework.xml
+F:\9th semester\advance .net\TFSManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\9th semester\advance .net\TFSManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\9th semester\advance .net\TFSManagement\BLL\obj\Debug\BLL.csproj.Up2Date
+F:\9th semester\advance .net\TFSManagement\BLL\obj\Debug\BLL.dll
+F:\9th semester\advance .net\TFSManagement\BLL\obj\Debug\BLL.pdb
+F:\9th semester\advance .net\TFSManagement\BLL\bin\Debug\BLL.dll.config
